@@ -6,7 +6,8 @@ This application have been made with **REACTJS** and it allow you to search and 
 You can try it at : http://jammming-AB.surge.sh
 
 ## Technologies
-REACTJS
-JAVASCRIPT
-HTML5/CSS
-SURGE
+* REACTJS
+* JAVASCRIPT
+* HTML5/CSS
+* SURGE
+* GIT
